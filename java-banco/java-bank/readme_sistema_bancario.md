@@ -4,6 +4,25 @@ Este é um sistema bancário simples desenvolvido em Java, com foco em orientaç
 
 ---
 
+## Funcionalidades
+
+- **Criação de Contas**: Crie contas correntes ou poupanças.
+- **Depósito**: Adicione dinheiro à conta.
+- **Saque**: Retire dinheiro da conta.
+- **Transferência**: Transfira dinheiro entre contas via PIX.
+- **Investimento**: Registre investimentos diretamente da conta.
+- **Histórico de Transações**: Acompanhe as operações realizadas.
+
+## Tecnologias Utilizadas
+
+- **Linguagem**: Java
+- **Ferramentas**:
+  - VSCode (com extensões para Java e Lombok)
+  - Lombok (para reduzir boilerplate code)
+  - Enumerações e Records (para melhor organização de dados)
+ 
+  ---
+
 ## Estrutura do Projeto
 
 ```plaintext
